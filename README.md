@@ -19,5 +19,10 @@ Parameters-->
 so example usage:
 - pywhatkit.sendwhatmsg("+911234567890" , "Hello", 19 , 3)
 
+Weather App AKA weatherapp.py
+-
+This program fetches the weather data and shows you 
+dependencies-->
+- requests module [ pip install requests]
 
    
