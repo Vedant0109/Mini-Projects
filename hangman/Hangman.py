@@ -93,4 +93,5 @@ def main(word):
     if counter == 6:
         print(f"Game over! The word was: {word}")
 
-main(word)
+if __name__ == "__main__":
+    main(word)
