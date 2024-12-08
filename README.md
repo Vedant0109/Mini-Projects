@@ -25,4 +25,7 @@ This program fetches the weather data and shows you
 dependencies-->
 - requests module [ pip install requests]
 
-   
+Password Generator 
+-
+
+This is a password generator of the length you would input
