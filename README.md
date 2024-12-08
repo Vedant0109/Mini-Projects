@@ -29,3 +29,8 @@ Password Generator
 -
 
 This is a password generator of the length you would input
+
+Text Corrector
+- 
+
+This is a program which Corrects the text which you would input.
