@@ -1,4 +1,4 @@
-# Portfolio website maker
+# portfolio website maker
 
 name = input("Enter your name: ")
 description = input("Enter your description: ")
@@ -116,7 +116,6 @@ html = f"""
     </body>
     </html>
     """
-
-# Write the HTML content to a file
+    
 with open("index.html", 'w') as f:
     f.write(html)
