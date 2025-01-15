@@ -1,3 +1,3 @@
 dependency:
-- qrcode install it by:
+- qrcode (To install to it run the following command)
   - pip install qrcode
